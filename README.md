@@ -50,6 +50,7 @@ options:
 ## Issues
 However when running this script, there might occur errors like:
 > SyntaxError: unterminated string literal
+
 > SyntaxError: invalid character
 
 For some reason Tatoeba provides some files incorrectly encoded as UTF-8. On Linux you can use iconv to force re-encode the file:
