@@ -1,0 +1,22 @@
+[
+    {
+        "language": "Russian",
+        "url": "https://github.com/dov-vai/ClozeCall-Languages/raw/refs/heads/main/russian.tsv"
+    },
+    {
+        "language": "French",
+        "url": "https://github.com/dov-vai/ClozeCall-Languages/raw/refs/heads/main/french.tsv"
+    },
+    {
+        "language": "German",
+        "url": "https://github.com/dov-vai/ClozeCall-Languages/raw/refs/heads/main/german.tsv"
+    },
+    {
+        "language": "Spanish",
+        "url": "https://github.com/dov-vai/ClozeCall-Languages/raw/refs/heads/main/spanish.tsv"
+    },
+    {
+        "language": "Portuguese",
+        "url": "https://github.com/dov-vai/ClozeCall-Languages/raw/refs/heads/main/portuguese.tsv"
+    }
+]
